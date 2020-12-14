@@ -1,10 +1,13 @@
 _repo: The-Real-Fairy-Folk_63992
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Gleeson, James M.
     gutenberg_agent_id: '52701'
     url: http://www.gutenberg.org/2009/agents/52701
+covers:
+- cover_type: archival
+  image_path: 63992-h/images/cover.jpg
 creator:
   author:
     agent_name: Jamison, Louise
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '52700'
     url: http://www.gutenberg.org/2009/agents/52700
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63992#The-Real-Fairy-Folk
 gutenberg_issued: '2020-12-08'
 gutenberg_type: Text
 identifiers:
